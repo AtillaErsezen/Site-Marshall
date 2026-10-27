@@ -36,6 +36,11 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/AtillaErsezen/Site-Marshall/blob/main/assets/swag-launch.mp4"><img src="https://raw.githubusercontent.com/AtillaErsezen/Site-Marshall/main/assets/swag-launch.jpg" alt="Watch the SWAG launch video" width="720"></a>
+  <br><sub>▶ Click to watch the 22s launch video</sub>
+</p>
+
 ## What It Does
 
 SWAG delivers real-time, context-aware safety guidance to field operators working with heavy machinery. Workers ask questions by **voice or text in their native language** and receive classified safety responses backed by a RAG pipeline over ingested safety manuals.
